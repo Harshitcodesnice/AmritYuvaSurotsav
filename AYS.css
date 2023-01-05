@@ -1,0 +1,41 @@
+body {
+  background-color: #fdf7ff;
+}
+
+#navBar {
+  width: 98%;
+  height: 4rem;
+  border: 2px solid #4503b0;
+  background-color: #4503b0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading1 {
+  width: 98%;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  width: fit-content;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.5cm;
+}
+
+#banner1 {
+  width: 98%;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px dotted black;
+}
+
+#bannerImg1 {
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+}
